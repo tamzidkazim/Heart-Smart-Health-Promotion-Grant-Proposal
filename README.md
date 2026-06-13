@@ -17,7 +17,7 @@ Heart Smart is a community-based health promotion initiative designed to reduce 
 
 - ## Budget Plan
 
-![Budget Plan](Budget_Plan.png)
+![Budget Plan](Budget%20Plan.png)
 
 ## Funding Proposal
 - Grant Program: Ian Potter Foundation Public Health Research Grant
