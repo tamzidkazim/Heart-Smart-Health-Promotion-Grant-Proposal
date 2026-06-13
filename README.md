@@ -15,6 +15,10 @@ Heart Smart is a community-based health promotion initiative designed to reduce 
 - Men aged 40–60 years
 - Adults aged 75+ years
 
+- ## Budget Plan
+
+![Budget Plan](Budget_Plan.png)
+
 ## Funding Proposal
 - Grant Program: Ian Potter Foundation Public Health Research Grant
 - Funding Requested: $37,500
